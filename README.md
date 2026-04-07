@@ -11,12 +11,15 @@ A sleek, responsive, and visually engaging landing page designed for a modern cu
 -Modern Typography: Integrated with Font Awesome for crisp, scalable icons.
 
 ## 🛠️ Tech Stack
-*HTML5: Semantic structure for better SEO and accessibility.
+-HTML5: Semantic structure for better SEO and accessibility.
 
-*CSS3: Custom styling including Flexbox/Grid for layout management.
+-CSS3: Custom styling including Flexbox/Grid for layout management.
 
-*JavaScript: Logic for interactivity and mobile menu toggling.
+-JavaScript: Logic for interactivity and mobile menu toggling.
 
-*AOS Library: For scroll-triggered animations.
+-AOS Library: For scroll-triggered animations.
 
-*Font Awesome: For professional iconography.
+-Font Awesome: For professional iconography.
+
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/fdca5e7d-bc8b-443d-8b1f-a58a79d398cd" />
+
