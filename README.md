@@ -40,5 +40,6 @@ Simply open index.html in your preferred browser.
 
 ## Author
 ### Ayush Tiwari
-GitHub: @iayushhtiwari-dot
-LinkedIn: https://www.linkedin.com/in/ayush-tiwari-584440361/
+
+-GitHub: @iayushhtiwari-dot
+-LinkedIn: https://www.linkedin.com/in/ayush-tiwari-584440361/
