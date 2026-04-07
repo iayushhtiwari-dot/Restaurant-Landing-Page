@@ -30,3 +30,15 @@ A sleek, responsive, and visually engaging landing page designed for a modern cu
 git clone https://github.com/iayushhtiwari-dot/Restaurant-Landing-Page.git
 ```
 
+### 2. Navigate to the project folder:
+``` bash
+cd Restaurant-Landing-Page
+```
+
+### 3. Open the project:
+Simply open index.html in your preferred browser.
+
+## Author
+### Ayush Tiwari
+GitHub: @iayushhtiwari-dot
+LinkedIn: https://www.linkedin.com/in/ayush-tiwari-584440361/
