@@ -24,3 +24,7 @@ A sleek, responsive, and visually engaging landing page designed for a modern cu
 ## 📸 Preview
 <img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/fdca5e7d-bc8b-443d-8b1f-a58a79d398cd" />
 
+## ⚙️ How to Run Locally
+### 1. Clone the repository:
+git clone https://github.com/iayushhtiwari-dot/Restaurant-Landing-Page.git
+
