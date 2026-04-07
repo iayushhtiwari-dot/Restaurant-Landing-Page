@@ -26,5 +26,7 @@ A sleek, responsive, and visually engaging landing page designed for a modern cu
 
 ## ⚙️ How to Run Locally
 ### 1. Clone the repository:
+``` bash
 git clone https://github.com/iayushhtiwari-dot/Restaurant-Landing-Page.git
+```
 
