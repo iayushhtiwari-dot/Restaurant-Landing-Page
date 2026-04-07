@@ -9,3 +9,14 @@ A sleek, responsive, and visually engaging landing page designed for a modern cu
 -Interactive UI: Clean navigation and hover effects powered by JavaScript and CSS.
 
 -Modern Typography: Integrated with Font Awesome for crisp, scalable icons.
+
+## 🛠️ Tech Stack
+*HTML5: Semantic structure for better SEO and accessibility.
+
+*CSS3: Custom styling including Flexbox/Grid for layout management.
+
+*JavaScript: Logic for interactivity and mobile menu toggling.
+
+*AOS Library: For scroll-triggered animations.
+
+*Font Awesome: For professional iconography.
