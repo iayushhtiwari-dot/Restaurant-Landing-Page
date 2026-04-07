@@ -2,10 +2,10 @@
 A sleek, responsive, and visually engaging landing page designed for a modern culinary experience. This project was built to practice front-end fundamentals while integrating smooth scroll animations and professional styling.
 
 ## 🚀 Features
-Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
+-Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
 
-AOS Animations: Smooth "Animate On Scroll" effects to keep users engaged as they explore the menu.
+-AOS Animations: Smooth "Animate On Scroll" effects to keep users engaged as they explore the menu.
 
-Interactive UI: Clean navigation and hover effects powered by JavaScript and CSS.
+-Interactive UI: Clean navigation and hover effects powered by JavaScript and CSS.
 
-Modern Typography: Integrated with Font Awesome for crisp, scalable icons.
+-Modern Typography: Integrated with Font Awesome for crisp, scalable icons.
